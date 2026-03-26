@@ -7,7 +7,7 @@ role-specific technical coach that tailors its answers based on the role you are
 ### What this tool does
 - Asks you to choose your target role before starting
 - Acts as a specialized technical coach for that specific role
-- Answers ANY technical question — never refuses or redirects
+- Answers any technical question
 - Connects answers back to your role when relevant
 - Provides code examples where helpful
 - Maintains full conversation history for follow up questions
