@@ -20,6 +20,9 @@ role-specific technical coach that tailors its answers based on the role you are
 4. Data Analyst
 5. AI/LLM Engineer
 
+### Tech stack: 
+Python, OpenAI API, Ollama, GPT-4.1-mini, Qwen2.5-coder
+
 ### Technical Implementation
 - **Dual LLM Integration** — connects to OpenAI API (GPT-4.1-mini) and 
 Ollama (Qwen2.5-coder) using the same OpenAI Python library by switching 
