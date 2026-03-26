@@ -56,4 +56,4 @@ graceful exit at any stage of the conversation flow
 - Install dependencies: `uv pip install openai python-dotenv`
 
 ---
-*Built as a Week 1 Exercise for the Udemy course: AI Engineer Core Track — LLM Engineering, RAG, QLoRA, Agents by Ed Donner.*
+
